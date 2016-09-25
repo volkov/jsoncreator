@@ -1,12 +1,11 @@
-<idea-plugin version="2">
-  <id>com.yourcompany.unique.plugin.id</id>
-  <name>Plugin display name here</name>
-  <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+<idea-plugin version="3">
+  <id>com.github.volkov.jsoncreator</id>
+  <name>JsonCreator</name>
+  <version>1.1</version>
+  <vendor email="sergey.volkov." url="https://github.com/volkov">Sergey Volkov</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+      Generates json creator.
     ]]></description>
 
   <change-notes><![CDATA[
@@ -16,7 +15,7 @@
   </change-notes>
 
   <!-- please see http://confluence.jetbrains.com/display/IDEADEV/Build+Number+Ranges for description -->
-  <idea-version since-build="131"/>
+  <idea-version since-build="162"/>
 
   <!-- please see http://confluence.jetbrains.com/display/IDEADEV/Plugin+Compatibility+with+IntelliJ+Platform+Products
        on how to target different products -->
